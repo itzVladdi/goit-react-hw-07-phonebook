@@ -1,0 +1,17 @@
+.mainTitle {
+  text-align: center;
+  margin: 10px 0 10px 0;
+}
+.title {
+  text-align: center;
+  margin: 10px 0 10px 0;
+}
+.text {
+  text-align: center;
+  margin: 10px 0 10px 0;
+}
+.errorText {
+  color: red;
+  text-align: center;
+  margin: 10px 0 10px 0;
+}

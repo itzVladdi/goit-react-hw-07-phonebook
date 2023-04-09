@@ -35,3 +35,9 @@ img {
   max-width: 100%;
   height: auto;
 }
+.loader-wrapper {
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
